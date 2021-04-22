@@ -1,3 +1,5 @@
+#情感分析比赛-https://smp2020ewect.github.io/
+
 # smp-ewect-code
 这是2020年smp-ewect情感分析评测的代码，在最终排行第6，获得三等奖。
 ![比赛排名](image/比赛排名.png)
